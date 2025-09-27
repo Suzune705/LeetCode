@@ -2,7 +2,6 @@ import java.io.*;
 import java.util.*;
 
 
-
 // accounts.length : the number row of i ( m )
 // accounts[i].length : the number column of i  ( n )
 public class problem_1672 {
